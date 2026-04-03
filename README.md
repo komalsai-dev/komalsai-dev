@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm G Komal Sai Kumar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Freelancing and Web Development**
+- 🔭 I’m currently working on **Freelancing and Software Development**
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **AI Full Stack**
 
-- 👯 I’m looking to collaborate with **Full-Stack Developers**
+- 👯 I’m looking to collaborate with **AI Full-Stack Developers**
 
-- 💬 Ask me about:  **HTML, CSS, JS, C, PYTHON**
+- 💬 Ask me about:  **AI, CODING, PYTHON**
 
 - 📫 Reach me **golikomalsaikumar777@gmail.com**
 
